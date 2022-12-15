@@ -14,12 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=durihwang&show_icons=true&theme=transparent">
-<img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=hwangduli515">
-
-<div>
-	<h3>Tech</h3>
-</div>
 <div>
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
@@ -31,3 +25,6 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/Gitlab-FC6D26?style=flat&logo=Gitlab&logoColor=white" />
 	<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white" />
 </div>
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=durihwang&show_icons=true&theme=transparent">
+<img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=hwangduli515">
